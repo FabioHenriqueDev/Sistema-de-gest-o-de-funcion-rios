@@ -40,7 +40,7 @@ class Funcionario(Pessoa):
     
 p1 = Funcionario("Fábio", 15, 3500)
 p2 = Funcionario("Diogo", 21, 2500)
-p3 = Funcionario("Roebrto", 33, 4500)
+p3 = Funcionario("Roberto", 33, 4500)
 
 
 class Departamento:
